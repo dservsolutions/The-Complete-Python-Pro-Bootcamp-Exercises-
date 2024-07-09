@@ -1,0 +1,12 @@
+Before start programming need to apply some steps in order to accomplish the assignment
+
+Assignment :
+Build a Desktop program where you can upload images and add a watermark.
+
+# Steps
+
+1- Make a UI with Tkinter Library(Done)
+2- Load a Image(tkinter & Pillow)
+3- Apply Watermark
+4- Save the Image
+
